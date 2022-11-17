@@ -1,3 +1,2 @@
-# JavaCompositionANdInheritancePractice
-# JavaCompositionANdInheritancePractice
-# JavaCompositionANdInheritancePractice
+# JavaCompositionAndInheritancePractice
+ Practicing inheritance and composition
